@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hussain Zahid</h1>
-<h3 align="center">AI & Data Science Student | Future AI Engineer</h3>
+<h1 align="center">Hi 👋, I'm Hussain Zahid</h1><h1 align="center">Hi 👋, I'm Hussain Zahid</h1>
+<h3 align="center">Professional AI & Data Scientist | AI Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=M-Hussain01&label=Profile%20views&color=0e75b6&style=flat" alt="M-Hussain01" />
@@ -8,10 +8,10 @@
 ---
 
 ### 💫 About Me:
-- 🎓 Student at **SMIT (Saylani Mass IT Training)**
-- 🔭 Currently learning **AI & Data Science**
-- 💡 Skilled in **Python, Pandas, NumPy, File Handling, OOP**
-- ⚙️ Passionate about **Machine Learning & Ethical Hacking**
+- 💼 Professional AI & Data Scientist focusing on practical machine learning solutions
+- 🔧 Building and deploying ML/DL/NLP projects with production-ready pipelines
+- ⚙️ Experienced with Python, Pandas, NumPy, ML frameworks and software engineering best practices
+- 🎯 Goal: Deliver scalable AI systems and data-driven features
 
 ---
 
@@ -21,10 +21,16 @@
 
 ---
 
-### 🧰 Languages and Tools:
+### 🧰 Skills & Tools:
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,js,react,tailwind,git,github,vscode,linux,ubuntu" />
+<img src="https://skillicons.dev/icons?i=python,scikitlearn,pytorch,tensorflow,numpy,pandas,jupyter,git,github,vscode,linux" />
 </p>
+
+- **Languages:** Python, SQL, (basic JS/HTML/CSS)
+- **ML / DL:** scikit-learn, TensorFlow, PyTorch
+- **Data:** Pandas, NumPy, data wrangling, feature engineering
+- **Deployment:** Docker, REST APIs, basic cloud deployment
+- **Tools:** Git, GitHub, VSCode, Linux
 
 ---
 
@@ -36,5 +42,15 @@
 
 ---
 
+### 🎯 Current Work:
+- Developing end-to-end ML pipelines for real-world data
+- Working on projects in computer vision and NLP
+- Automating model evaluation and deployment workflows
+
+---
+
 ### 🎥 My Intro Video:
 [![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+
+---
+
