@@ -1,68 +1,137 @@
-<p align="center">
-  <!-- Replace banner URL with your banner GIF or image when ready -->
-  <img src="https://raw.githubusercontent.com/M-Hussain01/M-Hussain01/main/mybanner.gif" alt="Hussain banner" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hussain Zahid | AI & Data Scientist</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap');
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=M-Hussain01&label=Profile%20views&color=0e75b6&style=flat" alt="M-Hussain01" />
-</p>
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background: linear-gradient(135deg, #0a0f24, #001b44, #003366);
+      background-size: 400% 400%;
+      animation: gradientMove 10s ease infinite;
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
 
-<h1 align="center">Hi 👋, I'm Hussain Zahid</h1>
-<h3 align="center">💼 Professional AI & Data Scientist | AI Engineer — building scalable ML & NLP systems</h3>
+    @keyframes gradientMove {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
 
-<h3 align="center">
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=M-Hussain01&data=repositories,stars,commits&theme=light&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
-</h3>
+    .card {
+      background: rgba(0, 0, 30, 0.7);
+      border: 2px solid transparent;
+      border-radius: 20px;
+      padding: 40px;
+      max-width: 700px;
+      text-align: center;
+      box-shadow: 0 0 25px rgba(0, 0, 0, 0.6);
+      animation: glow 3s infinite alternate;
+    }
 
----
+    @keyframes glow {
+      from { box-shadow: 0 0 15px #00bfff, 0 0 25px #0066ff; }
+      to { box-shadow: 0 0 35px #00ffff, 0 0 55px #00bfff; }
+    }
 
-## 🔭 About
-- 💼 Professional AI & Data Scientist focusing on practical machine learning & NLP solutions  
-- 🔧 Building production-ready ML pipelines, model deployment, and automation  
-- ⚙️ Strong in Python, data engineering, model evaluation and reproducible workflows
+    h1 {
+      font-size: 2.6em;
+      color: #00bfff;
+      margin-bottom: 10px;
+    }
 
----
+    h3 {
+      color: #b0c7ff;
+      margin-bottom: 25px;
+    }
 
-## 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussain-zahid-a6051a371/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.hussainzahid01@gmail.com)
+    p {
+      font-size: 1.1em;
+      line-height: 1.6;
+      max-width: 600px;
+      margin: 10px auto;
+    }
 
----
+    ul {
+      list-style: none;
+      padding: 0;
+      text-align: left;
+      display: inline-block;
+      margin-top: 15px;
+    }
 
-## 🧰 Skills & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,numpy,pandas,jupyter,sql,docker,git,github,vscode,linux" />
-</p>
+    li {
+      margin: 6px 0;
+    }
 
-**Core:** Python • NumPy • Pandas • scikit-learn • PyTorch • TensorFlow  
-**MLOps / Deploy:** Docker • REST APIs • Basic cloud (GCP/AWS)  
-**Other:** SQL • Data wrangling • Feature engineering • Model monitoring
+    a {
+      color: #00ffff;
+      text-decoration: none;
+      font-weight: bold;
+      transition: color 0.3s;
+    }
 
----
+    a:hover {
+      color: #1DA1F2;
+    }
 
-## 🔩 Pinned Projects
-- [Project-1](https://github.com/M-Hussain01/project-1) — Short description: (e.g., image classifier / deployed API).  
-- [Project-2](https://github.com/M-Hussain01/project-2) — Short description: (e.g., NLP pipeline / demo).  
-- [Project-3](https://github.com/M-Hussain01/project-3) — Short description: (e.g., data engineering / ETL).
+    hr {
+      width: 60%;
+      border: 1px solid #00bfff;
+      margin: 25px auto;
+      opacity: 0.6;
+    }
 
----
+    footer {
+      font-size: 0.9em;
+      color: #9db6ff;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>👋 Hi, I'm Hussain Zahid</h1>
+    <h3>Certified in AI & Data Science from <strong>SMIT</strong></h3>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Hussain01&show_icons=true&theme=tokyonight" alt="Hussain's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Hussain01&theme=tokyonight" alt="GitHub Streak" />
-</p>
+    <p>I’m a <strong>Professional AI & Data Scientist</strong> passionate about building intelligent solutions using Machine Learning, Deep Learning, and NLP.  
+    My focus is on creating real-world, production-ready AI systems that deliver real impact.</p>
 
----
+    <hr>
 
-## 🎯 Current Work
-- Developing end-to-end ML pipelines for real-world data  
-- Projects in computer vision and NLP; deploying models as REST APIs  
-- Automating model evaluation and CI/CD for ML
+    <h2 style="color:#00bfff;">🧠 Skills & Expertise</h2>
+    <ul>
+      <li>⚙️ Python Programming</li>
+      <li>📊 Data Analysis (NumPy, Pandas)</li>
+      <li>📈 Statistics & Probability</li>
+      <li>🤖 Machine Learning & Deep Learning</li>
+      <li>💬 NLP (Natural Language Processing)</li>
+      <li>🧩 OOP & File Handling</li>
+    </ul>
 
----
+    <hr>
 
-> **Note:** Jab tum banner GIF bhej do (ya video), main use GIF me convert karke raw `raw.githubusercontent.com` link de dunga — usko upar ke `<img src="...">` me replace kar dena.
+    <h2 style="color:#00bfff;">📫 Connect With Me</h2>
+    <p>
+      <a href="https://www.linkedin.com/in/hussain-zahid-a6051a371/" target="_blank">LinkedIn</a> |
+      <a href="mailto:m.hussainzahid01@gmail.com">Gmail</a> |
+      <a href="https://github.com/M-Hussain01" target="_blank">GitHub</a>
+    </p>
 
+    <hr>
+
+    <footer>
+      ⚡ Passion + Consistency = Excellence <br>
+      “Learning never stops, and neither do I.”
+    </footer>
+  </div>
+</body>
+</html>
