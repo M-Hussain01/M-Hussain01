@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hussain Zahid</h1><h1 align="center">Hi 👋, I'm Hussain Zahid</h1>
+<h1 align="center">Hi 👋, I'm Hussain Zahid</h1>
 <h3 align="center">Professional AI & Data Scientist | AI Engineer</h3>
 
 <p align="center">
@@ -16,8 +16,8 @@
 ---
 
 ### 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/hussainzahid)
-[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white](https://www.linkedin.com/in/hussain-zahid-a6051a371/))](https://linkedin.com/in/hussainzahid)
+[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:m.hussainzahid01@gmail.com)
 
 ---
 
@@ -46,11 +46,6 @@
 - Developing end-to-end ML pipelines for real-world data
 - Working on projects in computer vision and NLP
 - Automating model evaluation and deployment workflows
-
----
-
-### 🎥 My Intro Video:
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)
 
 ---
 
