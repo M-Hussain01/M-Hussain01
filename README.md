@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/M-Hussain01/M-Hussain01/blob/main/HI%20I%20AM%20HUSSAIN%20ZAHID.gif" alt="Intro GIF"/>
+</p>
+
 # 👋 Hi, I'm Hussain Zahid  
 
 ### 💼 Professional AI Engineer | Data Scientist | Graphic Designer  
