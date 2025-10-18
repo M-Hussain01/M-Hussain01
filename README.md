@@ -31,7 +31,7 @@ With a strong foundation in Python and data-driven technologies, I focus on deli
 - 💻 **GitHub:** [M-Hussain01](https://github.com/M-Hussain01)  
 - 💼 **LinkedIn:** [Hussain Zahid](https://www.linkedin.com/in/hussain-zahid-a6051a371/)  
 - 📷 **Instagram:** [@m.hussainzahid](https://www.instagram.com/m.hussainzahid/)  
-- 📧 **Email:** hussainzahid.ai@gmail.com *(update if needed)*  
+- 📧 **Email:** m.hussainzahid.01@gmail.com
 
 ---
 
