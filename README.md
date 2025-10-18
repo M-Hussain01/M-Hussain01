@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/M-Hussain01/M-Hussain01/blob/main/HI%20I%20AM%20HUSSAIN%20ZAHID.gif" alt="Intro GIF"/>
+  <img src="https://github.com/M-Hussain01/M-Hussain01/blob/main/INTRO.gif?raw=true" alt="Intro GIF"/>
 </p>
+
 
 # 👋 Hi, I'm Hussain Zahid  
 
